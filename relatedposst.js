@@ -1,6 +1,3 @@
-<script type='text/javascript'>
-
-//<![CDATA[
 
 (function() {
     var jumlah = 7;
@@ -100,6 +97,3 @@ function contains(yelfx, yufx) {
     }
 })();
 
-//]]>
-
-</script>
