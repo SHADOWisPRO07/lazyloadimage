@@ -4,7 +4,6 @@ function loadLazyLoadLibrary(callback) {
   script.onload = callback;
   document.head.appendChild(script);
 }
-
 function initLazyLoad() {
   const lazyLoadInstance = new LazyLoad({
     elements_selector: '.lazy',
